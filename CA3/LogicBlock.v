@@ -1,0 +1,12 @@
+module logicBlock(input [7:0] A, B, input [1:0] m, input Ci, output reg [7:0] W, output reg Co);
+    always @(A, B, Ci, m) begin
+        Co = 1'b0;
+        case (m)
+            2'b00 : W = A;
+            2'b01 : {Co, W} = A + Ci;
+            2'b10 : {Co, W} = A - !Ci;
+            2'b11 : W = B;
+            default: W = 8'b0; 
+        endcase
+    end
+endmodule

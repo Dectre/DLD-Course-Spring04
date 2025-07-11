@@ -1,0 +1,14 @@
+`timescale 1ns/1ns
+module nor_tb();
+reg aa = 0, bb = 1;
+wire ww;
+myNor_switch cut1(aa, bb, ww);
+initial begin
+#23 bb = 0;
+#23 bb = 1;
+#23 bb = 0;
+#23 bb = 1;
+repeat(4) #17 aa=~aa;
+#23 $stop;
+end
+endmodule

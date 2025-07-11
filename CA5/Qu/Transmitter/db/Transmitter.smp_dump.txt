@@ -1,0 +1,6 @@
+
+State Machine - |Transmitter|PS
+Name PS.Idle PS.Done PS.Count97 
+PS.Idle 0 0 0 
+PS.Count97 1 0 1 
+PS.Done 1 1 0 

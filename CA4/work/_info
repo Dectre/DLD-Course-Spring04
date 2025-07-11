@@ -1,0 +1,178 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/University/4th Semester/Digital Systems 1/CA3
+vCounter_3
+Z0 !s110 1749619269
+!i10b 1
+!s100 46C22>ODoRI1D8fYT;Fm50
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ICE8[0c]coGPZ<AJnDHLF42
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/University/4th Semester/Digital Systems 1/CA4
+w1749143825
+Z4 8D:/University/4th Semester/Digital Systems 1/CA4/Counter.v
+Z5 FD:/University/4th Semester/Digital Systems 1/CA4/Counter.v
+!i122 96
+L0 2 9
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z7 !s108 1749619269.000000
+Z8 !s107 D:/University/4th Semester/Digital Systems 1/CA4/Counter.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/University/4th Semester/Digital Systems 1/CA4/Counter.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@counter_3
+XCounter_v_unit
+DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1749129277
+Vh2_CmzMb[TF@9729:<^bY0
+r1
+!s85 0
+!i10b 1
+!s100 V?loa5QfdeW3NT4A>=9nJ1
+Ih2_CmzMb[TF@9729:<^bY0
+!i103 1
+S1
+R3
+w1749129270
+R4
+R5
+!i122 0
+L0 9 0
+R6
+31
+!s108 1749129277.000000
+R8
+R9
+!i113 1
+R10
+R11
+n@counter_v_unit
+vhard_block
+Z12 !s110 1749619272
+!i10b 1
+!s100 [H8M_]2N>n;L2=`fnVR@32
+R1
+IIQNnh@XFnGce2WA_T3`oF1
+R2
+R3
+Z13 w1749339832
+Z14 8D:/University/4th Semester/Digital Systems 1/CA4/Post/simulation/modelsim/s10000001detectorQ.vo
+Z15 FD:/University/4th Semester/Digital Systems 1/CA4/Post/simulation/modelsim/s10000001detectorQ.vo
+!i122 99
+L0 524 34
+R6
+r1
+!s85 0
+31
+Z16 !s108 1749619272.000000
+!s107 D:/University/4th Semester/Digital Systems 1/CA4/Post/simulation/modelsim/s10000001detectorQ.vo|
+Z17 !s90 -reportprogress|300|-work|work|-stats=none|D:/University/4th Semester/Digital Systems 1/CA4/Post/simulation/modelsim/s10000001detectorQ.vo|
+!i113 1
+R10
+R11
+vs10000001detector
+R0
+!i10b 1
+!s100 LaL=dmm0`NGZza8[2=:MQ3
+R1
+I2XHcHfGzN6gz21:OQolE93
+R2
+R3
+w1749327969
+8D:/University/4th Semester/Digital Systems 1/CA4/SequenceDetector.v
+FD:/University/4th Semester/Digital Systems 1/CA4/SequenceDetector.v
+!i122 97
+L0 2 30
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/University/4th Semester/Digital Systems 1/CA4/SequenceDetector.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/4th Semester/Digital Systems 1/CA4/SequenceDetector.v|
+!i113 1
+R10
+R11
+vs10000001detector_tb
+!s110 1749129413
+!i10b 1
+!s100 2dNofg5?NJMh=k8J=@iZI2
+R1
+I:4Uig6?lSD0NYNzkO972o0
+R2
+R3
+w1749129409
+Z18 8D:/University/4th Semester/Digital Systems 1/CA4/TB_SequenceDetector.v
+Z19 FD:/University/4th Semester/Digital Systems 1/CA4/TB_SequenceDetector.v
+!i122 5
+L0 3 102
+R6
+r1
+!s85 0
+31
+!s108 1749129413.000000
+Z20 !s107 D:/University/4th Semester/Digital Systems 1/CA4/TB_SequenceDetector.v|
+Z21 !s90 -reportprogress|300|-work|work|-stats=none|D:/University/4th Semester/Digital Systems 1/CA4/TB_SequenceDetector.v|
+!i113 1
+R10
+R11
+vs10000001detectorQ
+R12
+!i10b 1
+!s100 BA1h@@hNGYJHeaCH^fH;>0
+R1
+I57;i7K^M`0M0jgLB<`_nK0
+R2
+R3
+R13
+R14
+R15
+!i122 99
+L0 32 491
+R6
+r1
+!s85 0
+31
+R16
+Z22 !s107 D:/University/4th Semester/Digital Systems 1/CA4/Post/simulation/modelsim/s10000001detectorQ.vo|
+R17
+!i113 1
+R10
+R11
+ns10000001detector@q
+vTB_s10000001detector
+R0
+!i10b 1
+!s100 <dhG;?FQhW_eMjBA`JOa82
+R1
+Ih@KORYM^H8M^^`>;63;kj1
+R2
+R3
+w1749337547
+R18
+R19
+!i122 98
+L0 2 43
+R6
+r1
+!s85 0
+31
+R7
+R20
+R21
+!i113 1
+R10
+R11
+n@t@b_s10000001detector

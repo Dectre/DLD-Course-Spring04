@@ -1,0 +1,178 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/University/4th Semester/Digital Systems 1/CA4
+vCounter_3
+!s110 1749322707
+!i10b 1
+!s100 46C22>ODoRI1D8fYT;Fm50
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IH`KJEGfYNSV`L1>8o04J01
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/University/4th Semester/Digital Systems 1/CA5
+w1749143825
+8D:/University/4th Semester/Digital Systems 1/CA5/Counter.v
+FD:/University/4th Semester/Digital Systems 1/CA5/Counter.v
+!i122 25
+Z3 L0 2 9
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1749322707.000000
+!s107 D:/University/4th Semester/Digital Systems 1/CA5/Counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/4th Semester/Digital Systems 1/CA5/Counter.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@counter_3
+vCounter_8
+!s110 1749323332
+!i10b 1
+!s100 o9Q61jSC;OBbWK=iHMQ0S3
+R0
+I4zLk]08_j>;[Rd;]m^Fd]3
+R1
+R2
+w1749323330
+8D:/University/4th Semester/Digital Systems 1/CA5/Counter_8.v
+FD:/University/4th Semester/Digital Systems 1/CA5/Counter_8.v
+!i122 29
+R3
+R4
+r1
+!s85 0
+31
+!s108 1749323332.000000
+!s107 D:/University/4th Semester/Digital Systems 1/CA5/Counter_8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/4th Semester/Digital Systems 1/CA5/Counter_8.v|
+!i113 1
+R5
+R6
+n@counter_8
+vs10000001detector
+!s110 1749328082
+!i10b 1
+!s100 LaL=dmm0`NGZza8[2=:MQ3
+R0
+I1A:G6=1ceLWVCI9RV?ZH63
+R1
+R2
+w1749328040
+8D:/University/4th Semester/Digital Systems 1/CA5/SequenceDetector.v
+FD:/University/4th Semester/Digital Systems 1/CA5/SequenceDetector.v
+!i122 39
+L0 2 30
+R4
+r1
+!s85 0
+31
+!s108 1749328082.000000
+!s107 D:/University/4th Semester/Digital Systems 1/CA5/SequenceDetector.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/4th Semester/Digital Systems 1/CA5/SequenceDetector.v|
+!i113 1
+R5
+R6
+vSerCommunication
+!s110 1749324336
+!i10b 1
+!s100 43^ndjf>n4X2k7TN7Bn`b0
+R0
+IM<k]glRLS7CWOMo[6T1No1
+R1
+R2
+w1749324279
+8D:/University/4th Semester/Digital Systems 1/CA5/SerCommunication.v
+FD:/University/4th Semester/Digital Systems 1/CA5/SerCommunication.v
+!i122 37
+L0 2 10
+R4
+r1
+!s85 0
+31
+!s108 1749324336.000000
+!s107 D:/University/4th Semester/Digital Systems 1/CA5/SerCommunication.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/4th Semester/Digital Systems 1/CA5/SerCommunication.v|
+!i113 1
+R5
+R6
+n@ser@communication
+vTB_SerCommunication
+!s110 1749321257
+!i10b 1
+!s100 P=aJkHCZYXQY^Z^HY6:eB1
+R0
+I3Z_C:]04Dcl@UlX7?^2IC0
+R1
+R2
+w1749321252
+Z7 8D:/University/4th Semester/Digital Systems 1/CA5/TB.v
+Z8 FD:/University/4th Semester/Digital Systems 1/CA5/TB.v
+!i122 7
+L0 3 85
+R4
+r1
+!s85 0
+31
+!s108 1749321257.000000
+Z9 !s107 D:/University/4th Semester/Digital Systems 1/CA5/TB.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|D:/University/4th Semester/Digital Systems 1/CA5/TB.v|
+!i113 1
+R5
+R6
+n@t@b_@ser@communication
+vtb_SerCommunication
+!s110 1749335981
+!i10b 1
+!s100 AI75]^CKWSH@eOe`7LocJ2
+R0
+I=3UJ6:gLno;bTKYiIW@Qm3
+R1
+R2
+w1749329032
+R7
+R8
+!i122 50
+L0 2 73
+R4
+r1
+!s85 0
+31
+!s108 1749335981.000000
+R9
+R10
+!i113 1
+R5
+R6
+ntb_@ser@communication
+vTransmitter
+!s110 1749340993
+!i10b 1
+!s100 b8eE`CUICh^_PWH5H7[Yf2
+R0
+Ic^ZI7O[JE[Ecm42AaXVEU0
+R1
+R2
+w1749340667
+8D:/University/4th Semester/Digital Systems 1/CA5/Transmitter.v
+FD:/University/4th Semester/Digital Systems 1/CA5/Transmitter.v
+!i122 51
+L0 2 43
+R4
+r1
+!s85 0
+31
+!s108 1749340993.000000
+!s107 D:/University/4th Semester/Digital Systems 1/CA5/Transmitter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/4th Semester/Digital Systems 1/CA5/Transmitter.v|
+!i113 1
+R5
+R6
+n@transmitter

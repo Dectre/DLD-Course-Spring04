@@ -1,0 +1,15 @@
+`timescale 1ns/1ns
+module TB_2();
+reg aa = 0, bb = 1, cc = 1;
+wire ww;
+myOAI_boolalg cut(aa, bb, cc, ww);
+initial begin
+    #47 aa = 1; bb = 0; cc = 0;
+    #47 aa = 1; bb = 1; cc = 0;
+    #47 aa = 1; bb = 1; cc = 1;
+    #47 aa = 0; bb = 0; cc = 1;
+    #47 aa = 1; bb = 0; cc = 1;
+    #53 $stop;
+end
+endmodule
+

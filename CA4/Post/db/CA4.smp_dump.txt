@@ -1,0 +1,7 @@
+
+State Machine - |s10000001detector|PS
+Name PS.Done PS.Count PS.Seen1 PS.Idle 
+PS.Idle 0 0 0 0 
+PS.Seen1 0 0 1 1 
+PS.Count 0 1 0 1 
+PS.Done 1 0 0 1 

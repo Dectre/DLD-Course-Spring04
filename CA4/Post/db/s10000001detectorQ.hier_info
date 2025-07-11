@@ -1,0 +1,32 @@
+|s10000001detectorQ
+clk => Counter_3:cntr.clk
+clk => J_Sync.CLK
+clk => PS~1.DATAIN
+rst => Counter_3:cntr.rst
+rst => J_Sync.ACLR
+rst => PS~3.DATAIN
+J => J_Sync.DATAIN
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|s10000001detectorQ|Counter_3:cntr
+PI[0] => PO.DATAB
+PI[1] => PO.DATAB
+PI[2] => PO.DATAB
+clk => PO[0]~reg0.CLK
+clk => PO[1]~reg0.CLK
+clk => PO[2]~reg0.CLK
+rst => PO[0]~reg0.ACLR
+rst => PO[1]~reg0.ACLR
+rst => PO[2]~reg0.ACLR
+ci => Add0.IN3
+cen => PO.OUTPUTSELECT
+cen => PO.OUTPUTSELECT
+cen => PO.OUTPUTSELECT
+iz => lden.IN1
+PO[0] <= PO[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+PO[1] <= PO[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+PO[2] <= PO[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+co <= WideAnd0.DB_MAX_OUTPUT_PORT_TYPE
+
+

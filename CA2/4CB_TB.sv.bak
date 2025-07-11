@@ -1,0 +1,14 @@
+`timescale 1ns/1ns
+module Comparator4bit_tb;
+  logic [3:0] A, B;
+  logic GT, EQ;
+  Comparator4bit uut(.A(A), .B(B), .GT(GT), .EQ(EQ));
+  initial begin
+    repeat (20) begin
+      A = $random() % 16;
+      B = $random() % 16;
+      #113;
+    end
+    $stop;
+  end
+endmodule

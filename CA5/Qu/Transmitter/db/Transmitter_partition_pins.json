@@ -1,0 +1,45 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "txOut",
+					"strict" : false
+				},
+				{
+					"name" : "txValid",
+					"strict" : false
+				},
+				{
+					"name" : "txAbort",
+					"strict" : false
+				},
+				{
+					"name" : "startSeen",
+					"strict" : false
+				},
+				{
+					"name" : "RcIn",
+					"strict" : false
+				},
+				{
+					"name" : "abort",
+					"strict" : false
+				},
+				{
+					"name" : "start",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

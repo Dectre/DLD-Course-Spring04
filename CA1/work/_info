@@ -1,0 +1,349 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Modelsim
+vfunction_g
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1741760165
+!i10b 1
+!s100 zEeUL@S3c:UG44kTn7LEb1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I^Lz=5=H<ZU?nkn;bj]3220
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dD:/Modelsim/CA1
+Z5 w1741759828
+Z6 8D:/Modelsim/CA1/function_g.sv
+Z7 FD:/Modelsim/CA1/function_g.sv
+!i122 376
+L0 9 9
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1741760165.000000
+Z10 !s107 D:/Modelsim/CA1/function_g.sv|
+Z11 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Modelsim/CA1/function_g.sv|
+!i113 1
+Z12 o-work work -sv
+Z13 tCvgOpt 0
+vmyNor_switch
+R0
+Z14 !s110 1741760149
+!i10b 1
+!s100 aBPdzUZYmde4nKiB;MY9P0
+R2
+IDf6K;?fDTNo_RPmIzTQHP2
+R3
+S1
+R4
+w1741750398
+8D:/Modelsim/CA1/nor_sw.sv
+FD:/Modelsim/CA1/nor_sw.sv
+!i122 366
+L0 2 7
+R8
+r1
+!s85 0
+31
+Z15 !s108 1741760149.000000
+!s107 D:/Modelsim/CA1/nor_sw.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Modelsim/CA1/nor_sw.sv|
+!i113 1
+R12
+R13
+nmy@nor_switch
+vmyNOT
+R0
+R1
+!i10b 1
+!s100 =h3UoO>JzLH_<Hf5VlGQ=2
+R2
+Im<fD9ZGc@CAkfh8A@lRo>3
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 376
+Z16 L0 2 6
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+nmy@n@o@t
+vmyOAI_boolalg
+R0
+!s110 1741760150
+!i10b 1
+!s100 ?>a_=oMIYKQ9L7R==ZZoo2
+R2
+Id=U5GF]f4e6NCjK>T@P5]2
+R3
+S1
+R4
+w1741748685
+8D:/Modelsim/CA1/oai_ba.sv
+FD:/Modelsim/CA1/oai_ba.sv
+!i122 368
+L0 2 3
+R8
+r1
+!s85 0
+31
+!s108 1741760150.000000
+!s107 D:/Modelsim/CA1/oai_ba.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Modelsim/CA1/oai_ba.sv|
+!i113 1
+R12
+R13
+nmy@o@a@i_boolalg
+vmyOAI_norGate
+R0
+!s110 1741760153
+!i10b 1
+!s100 ei4ij7A1BK^TDAi_X2ThD3
+R2
+Il7D0B[l7dM3T<I2k1>PSW1
+R3
+S1
+R4
+w1741721765
+8D:/Modelsim/CA1/oai_norgate.sv
+FD:/Modelsim/CA1/oai_norgate.sv
+!i122 369
+L0 2 4
+R8
+r1
+!s85 0
+31
+!s108 1741760152.000000
+!s107 D:/Modelsim/CA1/oai_norgate.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Modelsim/CA1/oai_norgate.sv|
+!i113 1
+R12
+R13
+nmy@o@a@i_nor@gate
+vmyOAI_switch
+R0
+!s110 1741760158
+!i10b 1
+!s100 AH2E4Ma>zzz0=DQcDSU^g0
+R2
+IU<2HdVA]WYJF0^33[4H8Y2
+R3
+S1
+R4
+w1741720033
+8D:/Modelsim/CA1/oai_sw.sv
+FD:/Modelsim/CA1/oai_sw.sv
+!i122 370
+R16
+R8
+r1
+!s85 0
+31
+!s108 1741760158.000000
+!s107 D:/Modelsim/CA1/oai_sw.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Modelsim/CA1/oai_sw.sv|
+!i113 1
+R12
+R13
+nmy@o@a@i_switch
+vnor_tb
+R0
+R14
+!i10b 1
+!s100 b?azX]mkJW28PGI^SI[603
+R2
+I=;8_H5Q;^VbL15kGi7Ee00
+R3
+S1
+R4
+w1741718471
+8D:/Modelsim/CA1/nor_tb.sv
+FD:/Modelsim/CA1/nor_tb.sv
+!i122 367
+Z17 L0 2 13
+R8
+r1
+!s85 0
+31
+R15
+!s107 D:/Modelsim/CA1/nor_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Modelsim/CA1/nor_tb.sv|
+!i113 1
+R12
+R13
+vTB_1
+R0
+R1
+!i10b 1
+!s100 1X[i1HSoH0GIadoGAA8e73
+R2
+IF]gX1`E@k7b:^RANiJDJW1
+R3
+S1
+R4
+w1741753460
+8D:/Modelsim/CA1/TB_1.sv
+FD:/Modelsim/CA1/TB_1.sv
+!i122 372
+L0 2 20
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/Modelsim/CA1/TB_1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Modelsim/CA1/TB_1.sv|
+!i113 1
+R12
+R13
+n@t@b_1
+vTB_2
+R0
+R1
+!i10b 1
+!s100 _>`AB=GYlc?]YUa3YAe]:0
+R2
+Io01[lo0z@0?V0gNzeeH8Z1
+R3
+S1
+R4
+w1741722169
+8D:/Modelsim/CA1/TB_2.sv
+FD:/Modelsim/CA1/TB_2.sv
+!i122 373
+R17
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/Modelsim/CA1/TB_2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Modelsim/CA1/TB_2.sv|
+!i113 1
+R12
+R13
+n@t@b_2
+vTB_3
+R0
+R1
+!i10b 1
+!s100 [ZIS;^Ya=ek=RHfL9z2nd0
+R2
+I=eeGP<hPd<iJ6oFN0X?cV2
+R3
+S1
+R4
+w1741748794
+8D:/Modelsim/CA1/TB_3.sv
+FD:/Modelsim/CA1/TB_3.sv
+!i122 374
+R17
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/Modelsim/CA1/TB_3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Modelsim/CA1/TB_3.sv|
+!i113 1
+R12
+R13
+n@t@b_3
+vTB_4
+R0
+R1
+!i10b 1
+!s100 X?_?YhFV@hjizbm[RY8V03
+R2
+IINQ@eElW>U<>X9RnXn8I30
+R3
+S1
+R4
+w1741749906
+8D:/Modelsim/CA1/TB_4.sv
+FD:/Modelsim/CA1/TB_4.sv
+!i122 375
+L0 2 15
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/Modelsim/CA1/TB_4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Modelsim/CA1/TB_4.sv|
+!i113 1
+R12
+R13
+n@t@b_4
+vTB_6
+!s105 TB_6_sv_unit
+DXx4 work 12 TB_6_sv_unit 0 22 BDb[SF:c04Jj@kEZNNkD42
+R0
+R1
+!i10b 1
+!s100 :249ckU=kKXD<:z2jgV3i1
+R2
+I3J_5g`NBb^olEUL4gjAAz0
+R3
+S1
+R4
+Z18 w1741758571
+Z19 8D:/Modelsim/CA1/TB_6.sv
+Z20 FD:/Modelsim/CA1/TB_6.sv
+!i122 377
+L0 2 14
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/Modelsim/CA1/TB_6.sv|
+Z21 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Modelsim/CA1/TB_6.sv|
+!i113 1
+R12
+R13
+n@t@b_6
+XTB_6_sv_unit
+R0
+R1
+VBDb[SF:c04Jj@kEZNNkD42
+r1
+!s85 0
+!i10b 1
+!s100 la8cA?_MRe8h7:8aT6nPI3
+IBDb[SF:c04Jj@kEZNNkD42
+!i103 1
+S1
+R4
+R18
+R19
+R20
+!i122 377
+L0 15 0
+R8
+31
+R9
+Z22 !s107 D:/Modelsim/CA1/TB_6.sv|
+R21
+!i113 1
+R12
+R13
+n@t@b_6_sv_unit

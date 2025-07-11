@@ -1,0 +1,4 @@
+module Comparator2bit(input  [1:0] A, B, output GT, EQ);
+    GT2bit gt_inst(.A(A), .B(B), .GT(GT));
+    EQ2bit eq_inst(.A(A), .B(B), .EQ(EQ));
+endmodule

@@ -1,0 +1,13 @@
+`timescale 1ns/1ns
+module comparator(input [7:0] A, B, output GT, EQ);
+    logic [8:0] gt, eq;
+    assign gt[0] = 0; assign eq[0] = 1;
+    genvar i;
+    generate
+        for (i = 0; i < 8; i = i + 1) begin
+            assign gt[i+1] = gt[i] | (eq[i] & (A[i] & ~B[i]));
+            assign eq[i+1] = eq[i] & (A[i] ^ B[i]);
+        end
+    end
+    assign GT = gt[8]; assign EQ = eq[8];
+endmodule

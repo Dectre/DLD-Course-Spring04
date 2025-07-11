@@ -1,0 +1,16 @@
+{D:/University/4th Semester/Digital Systems 1/CA5/Qu/Transmitter/simulation/modelsim/Transmitter.vo} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA5/Qu/Transmitter/simulation/modelsim/Transmitter.vo}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Transmitter
+-- Compiling module hard_block
+
+Top level modules:
+	Transmitter
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA5/Qu/Transmitter/simulation/modelsim/TB.v} {1 {vlog -work work -stats=none {D:\University\4th Semester\Digital Systems 1\CA5\Qu\Transmitter\simulation\modelsim\TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_Transmitter
+
+Top level modules:
+	TB_Transmitter
+
+} {} {}}

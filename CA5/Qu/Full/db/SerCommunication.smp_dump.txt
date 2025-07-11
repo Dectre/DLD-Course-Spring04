@@ -1,0 +1,13 @@
+
+State Machine - |SerCommunication|s10000001detector:seqDetector|PS
+Name PS.Done PS.Count PS.Seen1 PS.Idle 
+PS.Idle 0 0 0 0 
+PS.Seen1 0 0 1 1 
+PS.Count 0 1 0 1 
+PS.Done 1 0 0 1 
+
+State Machine - |SerCommunication|Transmitter:transmitter|PS
+Name PS.Idle PS.Done PS.Count97 
+PS.Idle 0 0 0 
+PS.Count97 1 0 1 
+PS.Done 1 1 0 

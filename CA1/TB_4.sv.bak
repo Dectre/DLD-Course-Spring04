@@ -1,0 +1,16 @@
+`timescale 1ns/1ns
+module TB_4();
+reg aa = 0, bb = 0, cc = 0;
+wire w1, w2, w3;
+myOAI_switch cut1(aa, bb, cc, w1);
+myOAI_norGate cut2(aa, bb, cc, w2);
+myOAI_boolalg cut3(aa, bb, cc, w3);
+initial begin
+    #47 aa = 1; bb = 0; cc = 0;
+    #47 aa = 1; bb = 1; cc = 0;
+    #47 aa = 1; bb = 1; cc = 1;
+    #47 aa = 0; bb = 0; cc = 1;
+    #47 aa = 1; bb = 0; cc = 1;
+    #53 $stop;
+end
+endmodule

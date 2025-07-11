@@ -1,0 +1,82 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/University/4th Semester/Digital Systems 1/CA5/Qu/Transmitter
+vhard_block
+Z0 !s110 1749343253
+!i10b 1
+!s100 962FGFd3X1cVS_HzX@`k>1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I7b:IFP@DgAR6XKK_@M^9^3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/University/4th Semester/Digital Systems 1/CA5/Qu/Transmitter/simulation/modelsim
+Z4 w1749342380
+Z5 8D:/University/4th Semester/Digital Systems 1/CA5/Qu/Transmitter/simulation/modelsim/Transmitter.vo
+Z6 FD:/University/4th Semester/Digital Systems 1/CA5/Qu/Transmitter/simulation/modelsim/Transmitter.vo
+!i122 0
+L0 871 34
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1749343253.000000
+Z9 !s107 D:/University/4th Semester/Digital Systems 1/CA5/Qu/Transmitter/simulation/modelsim/Transmitter.vo|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|D:/University/4th Semester/Digital Systems 1/CA5/Qu/Transmitter/simulation/modelsim/Transmitter.vo|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vTB_Transmitter
+R0
+!i10b 1
+!s100 Va2A6dT1MMAeMfNJmG2_10
+R1
+I_=z2bd>[0@cMh5XICf>oC3
+R2
+R3
+w1749343236
+8D:\University\4th Semester\Digital Systems 1\CA5\Qu\Transmitter\simulation\modelsim\TB.v
+FD:\University\4th Semester\Digital Systems 1\CA5\Qu\Transmitter\simulation\modelsim\TB.v
+!i122 1
+L0 2 44
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:\University\4th Semester\Digital Systems 1\CA5\Qu\Transmitter\simulation\modelsim\TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\University\4th Semester\Digital Systems 1\CA5\Qu\Transmitter\simulation\modelsim\TB.v|
+!i113 1
+R11
+R12
+n@t@b_@transmitter
+vTransmitter
+R0
+!i10b 1
+!s100 CLmBao9Bl8leERjS7aN<Y3
+R1
+IV4@Iz8U37U@LB4FidGUF33
+R2
+R3
+R4
+R5
+R6
+!i122 0
+L0 32 838
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@transmitter

@@ -1,0 +1,144 @@
+{D:/University/4th Semester/Digital Systems 1/CA3/Cntr4m_8_tb.v} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA3/Cntr4m_8_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_Counter8bit_4m_2
+
+Top level modules:
+	TB_Counter8bit_4m_2
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA3/Register8.v} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA3/Register8.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Reg8FlipFlop
+
+Top level modules:
+	Reg8FlipFlop
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA3/DFlipFlop_tb.v} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA3/DFlipFlop_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_DFF
+
+Top level modules:
+	TB_DFF
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA3/Reg8Alw_tb.v} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA3/Reg8Alw_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_Reg8Alw
+
+Top level modules:
+	TB_Reg8Alw
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA3/LogicBlockTb.v} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA3/LogicBlockTb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module logicBlockTb
+
+Top level modules:
+	logicBlockTb
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA3/synthLogicblock.v} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA3/synthLogicblock.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module logicBlock_s
+
+Top level modules:
+	logicBlock_s
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA3/DFlipFlop.v} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA3/DFlipFlop.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DFlipFlop
+
+Top level modules:
+	DFlipFlop
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA3/LatchRegister8.v} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA3/LatchRegister8.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module LatchRegister_8
+
+Top level modules:
+	LatchRegister_8
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA3/Register8_tb.v} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA3/Register8_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_Reg8FF
+
+Top level modules:
+	TB_Reg8FF
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA3/Counter_4Mode_6.v} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA3/Counter_4Mode_6.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Counter8bit_4m_1
+
+Top level modules:
+	Counter8bit_4m_1
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA3/DLatch_tb.v} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA3/DLatch_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_DLatch
+
+Top level modules:
+	TB_DLatch
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA3/LatchRegister8_tb.v} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA3/LatchRegister8_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_Register8
+
+Top level modules:
+	TB_Register8
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA3/SRLatch_tb.v} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA3/SRLatch_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_SRLatch
+
+Top level modules:
+	TB_SRLatch
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA3/Counter_4mode_8.v} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA3/Counter_4mode_8.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Counter8bit_4m_2
+
+Top level modules:
+	Counter8bit_4m_2
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA3/Register8_Alw.v} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA3/Register8_Alw.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Reg8Always
+
+Top level modules:
+	Reg8Always
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA3/DLatch.v} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA3/DLatch.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DLatch
+
+Top level modules:
+	DLatch
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA3/LogicBlock.v} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA3/LogicBlock.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module logicBlock
+
+Top level modules:
+	logicBlock
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA3/mycells.v} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA3/mycells.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module NOT
+-- Compiling module NAND
+-- Compiling module NOR
+-- Compiling module DFF
+-- Compiling module DFF_PP0
+-- Compiling module DFF_PP1
+
+Top level modules:
+	NOT
+	NAND
+	NOR
+	DFF
+	DFF_PP0
+	DFF_PP1
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA3/Cntr4m_6_tb.v} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA3/Cntr4m_6_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_Counter8bit_4m_1
+
+Top level modules:
+	TB_Counter8bit_4m_1
+
+} {} {}}

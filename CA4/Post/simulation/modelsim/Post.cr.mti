@@ -1,0 +1,37 @@
+{D:/University/4th Semester/Digital Systems 1/CA4/Post/simulation/modelsim/Counter.v} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA4/Post/simulation/modelsim/Counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Counter_3
+
+Top level modules:
+	Counter_3
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA4/Post/simulation/modelsim/TB_SequenceDetector.v} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA4/Post/simulation/modelsim/TB_SequenceDetector.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_s10000001detector
+
+Top level modules:
+	TB_s10000001detector
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA4/Post/simulation/modelsim/TB_prePost.v} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA4/Post/simulation/modelsim/TB_prePost.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_prePost
+
+Top level modules:
+	TB_prePost
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA4/Post/simulation/modelsim/s10000001detectorQ.vo} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA4/Post/simulation/modelsim/s10000001detectorQ.vo}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module s10000001detectorQ
+-- Compiling module hard_block
+
+Top level modules:
+	s10000001detectorQ
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA4/Post/simulation/modelsim/SequenceDetector.v} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA4/Post/simulation/modelsim/SequenceDetector.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module s10000001detector
+
+Top level modules:
+	s10000001detector
+
+} {} {}}

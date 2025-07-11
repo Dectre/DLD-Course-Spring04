@@ -1,0 +1,369 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Modelsim/CA1
+vComparator16bit
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1745112120
+!i10b 1
+!s100 8noWO<9ggS?z5cPNM0nEg1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ij1hdV:8>[I?[eC?N;ocN@0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dD:/University/4th Semester/Digital Systems 1/CA2
+Z5 w1745073400
+Z6 8D:/University/4th Semester/Digital Systems 1/CA2/16BC.sv
+Z7 FD:/University/4th Semester/Digital Systems 1/CA2/16BC.sv
+!i122 877
+L0 9 6
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1745112120.000000
+Z10 !s107 D:/University/4th Semester/Digital Systems 1/CA2/16BC.sv|
+Z11 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/University/4th Semester/Digital Systems 1/CA2/16BC.sv|
+!i113 1
+Z12 o-work work -sv
+Z13 tCvgOpt 0
+n@comparator16bit
+vComparator16bit_tb
+R0
+!s110 1745112122
+!i10b 1
+!s100 M;[D]35K<8Ak0[;hQVSBD3
+R2
+ID92aVX14U2jUF?m0LOEHQ3
+R3
+S1
+R4
+w1745108614
+8D:/University/4th Semester/Digital Systems 1/CA2/16BC_TB.sv
+FD:/University/4th Semester/Digital Systems 1/CA2/16BC_TB.sv
+!i122 878
+Z14 L0 2 13
+R8
+r1
+!s85 0
+31
+!s108 1745112121.000000
+!s107 D:/University/4th Semester/Digital Systems 1/CA2/16BC_TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/University/4th Semester/Digital Systems 1/CA2/16BC_TB.sv|
+!i113 1
+R12
+R13
+n@comparator16bit_tb
+vComparator2bit
+Z15 !s110 1745112119
+!i10b 1
+!s100 _3li5h>Wga5=;NWFcch=42
+R2
+Icddz`6B4N`D089@5AMK>Y0
+R3
+R4
+w1745046836
+8D:/University/4th Semester/Digital Systems 1/CA2/Comparator2bit.v
+FD:/University/4th Semester/Digital Systems 1/CA2/Comparator2bit.v
+!i122 872
+Z16 L0 2 4
+R8
+r1
+!s85 0
+31
+Z17 !s108 1745112119.000000
+!s107 D:/University/4th Semester/Digital Systems 1/CA2/Comparator2bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/4th Semester/Digital Systems 1/CA2/Comparator2bit.v|
+!i113 1
+Z18 o-work work
+R13
+n@comparator2bit
+vComparator2bit_tb
+R0
+R15
+!i10b 1
+!s100 `aJaAZ^FC7AKJoNZC[Y?`1
+R2
+IbPMOnO>b;B@6f[HcI[E2R2
+R3
+S1
+R4
+w1745105159
+8D:/University/4th Semester/Digital Systems 1/CA2/Comparator2bit_tb.sv
+FD:/University/4th Semester/Digital Systems 1/CA2/Comparator2bit_tb.sv
+!i122 873
+Z19 L0 2 15
+R8
+r1
+!s85 0
+31
+R17
+!s107 D:/University/4th Semester/Digital Systems 1/CA2/Comparator2bit_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/University/4th Semester/Digital Systems 1/CA2/Comparator2bit_tb.sv|
+!i113 1
+R12
+R13
+n@comparator2bit_tb
+vComparator4bit
+R0
+R1
+!i10b 1
+!s100 Vo_jE3YG9bhf9zB5W7]<71
+R2
+Ii1MBL>2mQG>CzOQe8Xe5N2
+R3
+S1
+R4
+w1744964892
+8D:/University/4th Semester/Digital Systems 1/CA2/4BC.sv
+FD:/University/4th Semester/Digital Systems 1/CA2/4BC.sv
+!i122 875
+Z20 L0 2 6
+R8
+r1
+!s85 0
+31
+R17
+!s107 D:/University/4th Semester/Digital Systems 1/CA2/4BC.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/University/4th Semester/Digital Systems 1/CA2/4BC.sv|
+!i113 1
+R12
+R13
+n@comparator4bit
+vComparator4bit_tb
+R0
+R1
+!i10b 1
+!s100 8c3673iX]jZ3CQ_F_>Z9<3
+R2
+I9=lemgai`:zLaP04^R9j03
+R3
+S1
+R4
+w1745107604
+8D:/University/4th Semester/Digital Systems 1/CA2/4CB_TB.sv
+FD:/University/4th Semester/Digital Systems 1/CA2/4CB_TB.sv
+!i122 876
+R14
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/University/4th Semester/Digital Systems 1/CA2/4CB_TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/University/4th Semester/Digital Systems 1/CA2/4CB_TB.sv|
+!i113 1
+R12
+R13
+n@comparator4bit_tb
+vComparator8bit
+R0
+R1
+!i10b 1
+!s100 AVXlPeGkN^<=lO?Iz>PG;3
+R2
+I6J?i3`gd_<AjWk4S1Uh0C1
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 877
+R20
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+n@comparator8bit
+vComparator8Bit
+R0
+!s110 1745051869
+!i10b 1
+!s100 kkEfeW9hkG=dB3M5dbQXh2
+R2
+I71=B:j:=zCP8LDRMFGR9Q2
+R3
+S1
+R4
+w1745051797
+R6
+R7
+!i122 223
+R20
+R8
+r1
+!s85 0
+31
+!s108 1745051869.000000
+R10
+R11
+!i113 1
+R12
+R13
+n@comparator8@bit
+vComparatorNbit
+R0
+!s110 1745112127
+!i10b 1
+!s100 1@^6Hzfg055kMS_SUjVA43
+R2
+IYXjloM[Pe;]9Ua7YmVMbM0
+R3
+S1
+R4
+w1745111731
+8D:/University/4th Semester/Digital Systems 1/CA2/nBC.sv
+FD:/University/4th Semester/Digital Systems 1/CA2/nBC.sv
+!i122 879
+R19
+R8
+r1
+!s85 0
+31
+!s108 1745112127.000000
+!s107 D:/University/4th Semester/Digital Systems 1/CA2/nBC.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/University/4th Semester/Digital Systems 1/CA2/nBC.sv|
+!i113 1
+R12
+R13
+n@comparator@nbit
+vComparatorNbit_tb
+R0
+!s110 1745112131
+!i10b 1
+!s100 CO<T>;DAKHSMTPAnZQOlc1
+R2
+IGEnNL7dI7L93XA;Y??RKb3
+R3
+S1
+R4
+w1745112080
+8D:/University/4th Semester/Digital Systems 1/CA2/nBC_TB.sv
+FD:/University/4th Semester/Digital Systems 1/CA2/nBC_TB.sv
+!i122 880
+L0 2 14
+R8
+r1
+!s85 0
+31
+!s108 1745112131.000000
+!s107 D:/University/4th Semester/Digital Systems 1/CA2/nBC_TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/University/4th Semester/Digital Systems 1/CA2/nBC_TB.sv|
+!i113 1
+R12
+R13
+n@comparator@nbit_tb
+vEQ2bit
+R15
+!i10b 1
+!s100 XVm2b:nc9^cSC`J?i5jXc0
+R2
+INooPMCY^Fc5cDe`<i:EbH2
+R3
+R4
+w1744911624
+8D:/University/4th Semester/Digital Systems 1/CA2/EQ2bit.v
+FD:/University/4th Semester/Digital Systems 1/CA2/EQ2bit.v
+!i122 871
+Z21 L0 2 3
+R8
+r1
+!s85 0
+31
+Z22 !s108 1745112118.000000
+!s107 D:/University/4th Semester/Digital Systems 1/CA2/EQ2bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/4th Semester/Digital Systems 1/CA2/EQ2bit.v|
+!i113 1
+R18
+R13
+n@e@q2bit
+vGEcascade
+R0
+R15
+!i10b 1
+!s100 fnlVbSG0IV[a?HW7aJTNk2
+R2
+Il@1QNKO`NJCz^mTV[3b:@1
+R3
+S1
+R4
+w1745061535
+Z23 8D:/University/4th Semester/Digital Systems 1/CA2/GEcascade.sv
+Z24 FD:/University/4th Semester/Digital Systems 1/CA2/GEcascade.sv
+!i122 874
+R16
+R8
+r1
+!s85 0
+31
+R17
+Z25 !s107 D:/University/4th Semester/Digital Systems 1/CA2/GEcascade.sv|
+Z26 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/University/4th Semester/Digital Systems 1/CA2/GEcascade.sv|
+!i113 1
+R12
+R13
+n@g@ecascade
+XGEcascade_sv_unit
+R0
+!s110 1744964028
+V5Zg4=F=O;fE6i3jKA3M2@3
+r1
+!s85 0
+!i10b 1
+!s100 ONT_^03zJ]1<oL4odLDo]2
+I5Zg4=F=O;fE6i3jKA3M2@3
+!i103 1
+S1
+R4
+w1744963991
+R23
+R24
+!i122 65
+L0 5 0
+R8
+31
+!s108 1744964028.000000
+R25
+R26
+!i113 1
+R12
+R13
+n@g@ecascade_sv_unit
+vGT2bit
+!s110 1745112118
+!i10b 1
+!s100 6gnI=lLa15M_ei;KN@:2J1
+R2
+I<^42i8AfYmBO^^2eLP^Kf3
+R3
+R4
+w1745048284
+8D:/University/4th Semester/Digital Systems 1/CA2/GT2bit.v
+FD:/University/4th Semester/Digital Systems 1/CA2/GT2bit.v
+!i122 870
+R21
+R8
+r1
+!s85 0
+31
+R22
+!s107 D:/University/4th Semester/Digital Systems 1/CA2/GT2bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/4th Semester/Digital Systems 1/CA2/GT2bit.v|
+!i113 1
+R18
+R13
+n@g@t2bit

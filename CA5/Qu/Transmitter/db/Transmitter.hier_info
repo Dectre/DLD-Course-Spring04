@@ -1,0 +1,58 @@
+|Transmitter
+clk => Counter_8:cntr.clk
+clk => PS~1.DATAIN
+rst => Counter_8:cntr.rst
+rst => PS~3.DATAIN
+RcIn => txOut.DATAA
+start => Selector1.IN2
+start => Selector0.IN1
+abort => txOut.OUTPUTSELECT
+abort => txAbort.DATAA
+abort => txValid.DATAA
+txOut <= Selector2.DB_MAX_OUTPUT_PORT_TYPE
+txValid <= txValid.DB_MAX_OUTPUT_PORT_TYPE
+txAbort <= txAbort.DB_MAX_OUTPUT_PORT_TYPE
+startSeen <= startSeen.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Transmitter|Counter_8:cntr
+PI[0] => PO.DATAB
+PI[1] => PO.DATAB
+PI[2] => PO.DATAB
+PI[3] => PO.DATAB
+PI[4] => PO.DATAB
+PI[5] => PO.DATAB
+PI[6] => PO.DATAB
+clk => PO[0]~reg0.CLK
+clk => PO[1]~reg0.CLK
+clk => PO[2]~reg0.CLK
+clk => PO[3]~reg0.CLK
+clk => PO[4]~reg0.CLK
+clk => PO[5]~reg0.CLK
+clk => PO[6]~reg0.CLK
+rst => PO[0]~reg0.ACLR
+rst => PO[1]~reg0.ACLR
+rst => PO[2]~reg0.ACLR
+rst => PO[3]~reg0.ACLR
+rst => PO[4]~reg0.ACLR
+rst => PO[5]~reg0.ACLR
+rst => PO[6]~reg0.ACLR
+ci => Add0.IN7
+cen => PO.OUTPUTSELECT
+cen => PO.OUTPUTSELECT
+cen => PO.OUTPUTSELECT
+cen => PO.OUTPUTSELECT
+cen => PO.OUTPUTSELECT
+cen => PO.OUTPUTSELECT
+cen => PO.OUTPUTSELECT
+iz => lden.IN1
+PO[0] <= PO[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+PO[1] <= PO[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+PO[2] <= PO[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+PO[3] <= PO[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+PO[4] <= PO[4]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+PO[5] <= PO[5]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+PO[6] <= PO[6]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+co <= WideAnd0.DB_MAX_OUTPUT_PORT_TYPE
+
+

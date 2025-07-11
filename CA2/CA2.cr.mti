@@ -1,0 +1,79 @@
+{D:/University/4th Semester/Digital Systems 1/CA2/GT2bit.v} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA2/GT2bit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module GT2bit
+
+Top level modules:
+	GT2bit
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA2/4BC.sv} {1 {vlog -work work -sv -stats=none {D:/University/4th Semester/Digital Systems 1/CA2/4BC.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Comparator4bit
+
+Top level modules:
+	Comparator4bit
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA2/16BC_TB.sv} {1 {vlog -work work -sv -stats=none {D:/University/4th Semester/Digital Systems 1/CA2/16BC_TB.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Comparator16bit_tb
+
+Top level modules:
+	Comparator16bit_tb
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA2/Comparator2bit_tb.sv} {1 {vlog -work work -sv -stats=none {D:/University/4th Semester/Digital Systems 1/CA2/Comparator2bit_tb.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Comparator2bit_tb
+
+Top level modules:
+	Comparator2bit_tb
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA2/Comparator2bit.v} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA2/Comparator2bit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Comparator2bit
+
+Top level modules:
+	Comparator2bit
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA2/4CB_TB.sv} {1 {vlog -work work -sv -stats=none {D:/University/4th Semester/Digital Systems 1/CA2/4CB_TB.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Comparator4bit_tb
+
+Top level modules:
+	Comparator4bit_tb
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA2/nBC.sv} {1 {vlog -work work -sv -stats=none {D:/University/4th Semester/Digital Systems 1/CA2/nBC.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ComparatorNbit
+
+Top level modules:
+	ComparatorNbit
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA2/16BC.sv} {1 {vlog -work work -sv -stats=none {D:/University/4th Semester/Digital Systems 1/CA2/16BC.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Comparator8bit
+-- Compiling module Comparator16bit
+
+Top level modules:
+	Comparator16bit
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA2/GEcascade.sv} {1 {vlog -work work -sv -stats=none {D:/University/4th Semester/Digital Systems 1/CA2/GEcascade.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module GEcascade
+
+Top level modules:
+	GEcascade
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA2/EQ2bit.v} {1 {vlog -work work -stats=none {D:/University/4th Semester/Digital Systems 1/CA2/EQ2bit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module EQ2bit
+
+Top level modules:
+	EQ2bit
+
+} {} {}} {D:/University/4th Semester/Digital Systems 1/CA2/nBC_TB.sv} {1 {vlog -work work -sv -stats=none {D:/University/4th Semester/Digital Systems 1/CA2/nBC_TB.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ComparatorNbit_tb
+
+Top level modules:
+	ComparatorNbit_tb
+
+} {} {}}

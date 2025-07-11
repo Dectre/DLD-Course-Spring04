@@ -1,0 +1,81 @@
+D:/Modelsim/CA1/nor_sw.sv {1 {vlog -work work -sv -stats=none D:/Modelsim/CA1/nor_sw.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module myNor_switch
+
+Top level modules:
+	myNor_switch
+
+} {} {}} D:/Modelsim/CA1/TB_3.sv {1 {vlog -work work -sv -stats=none D:/Modelsim/CA1/TB_3.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_3
+
+Top level modules:
+	TB_3
+
+} {} {}} D:/Modelsim/CA1/oai_ba.sv {1 {vlog -work work -sv -stats=none D:/Modelsim/CA1/oai_ba.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module myOAI_boolalg
+
+Top level modules:
+	myOAI_boolalg
+
+} {} {}} D:/Modelsim/CA1/nor_tb.sv {1 {vlog -work work -sv -stats=none D:/Modelsim/CA1/nor_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nor_tb
+
+Top level modules:
+	nor_tb
+
+} {} {}} D:/Modelsim/CA1/TB_2.sv {1 {vlog -work work -sv -stats=none D:/Modelsim/CA1/TB_2.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_2
+
+Top level modules:
+	TB_2
+
+} {} {}} D:/Modelsim/CA1/oai_norgate.sv {1 {vlog -work work -sv -stats=none D:/Modelsim/CA1/oai_norgate.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module myOAI_norGate
+
+Top level modules:
+	myOAI_norGate
+
+} {} {}} D:/Modelsim/CA1/TB_4.sv {1 {vlog -work work -sv -stats=none D:/Modelsim/CA1/TB_4.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_4
+
+Top level modules:
+	TB_4
+
+} {} {}} D:/Modelsim/CA1/oai_sw.sv {1 {vlog -work work -sv -stats=none D:/Modelsim/CA1/oai_sw.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module myOAI_switch
+
+Top level modules:
+	myOAI_switch
+
+} {} {}} D:/Modelsim/CA1/TB_6.sv {2 {vlog -work work -sv -stats=none D:/Modelsim/CA1/TB_6.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_6
+** Warning: D:/Modelsim/CA1/TB_6.sv(15): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: D:/Modelsim/CA1/TB_6.sv(17): (vlog-2284) Empty $unit scope found.
+-- Compiling package TB_6_sv_unit
+
+Top level modules:
+	TB_6
+
+} {} {}} D:/Modelsim/CA1/oai_tb.sv {1 {vlog -work work -sv -stats=none D:/Modelsim/CA1/oai_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_1
+
+Top level modules:
+	TB_1
+
+} {} {}} D:/Modelsim/CA1/TB_1.sv {1 {vlog -work work -sv -stats=none D:/Modelsim/CA1/TB_1.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_1
+
+Top level modules:
+	TB_1
+
+} {} {}}
